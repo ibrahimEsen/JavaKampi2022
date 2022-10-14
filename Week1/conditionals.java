@@ -2,7 +2,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		int sayi = 3;
+		int sayi = 5;
 		if (sayi<11) {
 			
 			System.out.println("sayi 11'den KÜÇÜKTÜR");			
