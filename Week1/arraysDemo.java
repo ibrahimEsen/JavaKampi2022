@@ -1,5 +1,5 @@
 public class Main {
-
+//Lesson 14
 	public static void main(String[] args) {
 
 		String ogrenci1 = "Diana";
