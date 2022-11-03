@@ -1,7 +1,7 @@
 package inheritance;
 
 public class Main {
-
+//Lesson 36
 	public static void main(String[] args) {
 		
 		Customer customer = new Customer();
