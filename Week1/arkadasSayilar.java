@@ -25,5 +25,5 @@ public class Main {
 			System.out.println(number1 + " ve " + number2 + " sayısı arkadaş değildir");
 		}
 	}
-///
+//
 }
