@@ -8,7 +8,7 @@ public class Main {
 		}
 		System.out.println("For döngüsü tamamlandı");
 
-		// while.
+		// while
 		int i = 1;
 		while (i < 10) {
 			System.out.println(i);
